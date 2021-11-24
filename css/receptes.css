@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Spectral+SC:ital,wght@1,200&display=swap");
+* {
+  font-family: "spectral SC";
+}
+body {
+  color: cornflowerblue;
+}
+table {
+  width: 100%;
+}
+table,
+td,
+th {
+  border: 2px solid black;
+  border-collapse: collapse;
+  color: red;
+  font-size: 64px;
+  text-align: center;
+}
+th {
+  background-color: aliceblue;
+}
+td {
+  background-color: deepskyblue;
+}
