@@ -23,3 +23,15 @@ th {
 td {
   background-color: deepskyblue;
 }
+h1{
+    color: #333;
+    font-size: 20px;
+}
+h2{
+    color: #666;
+    font-size: 16px;
+}
+p,li{
+    color: #000;
+    font-size: 12px;
+}
