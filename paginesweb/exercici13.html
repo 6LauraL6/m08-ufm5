@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="../css/formulario.css">
 </head>
 
 <body>
@@ -17,7 +18,11 @@
             <input type="text" id="fname" name="usernanme" placeholder="Introduce tu nombre" maxlength="30">
             <br><label for="email">email</label>
             <br><input type="text" id="email" name="email" placeholder="tuemail@dominio.com">
-        </fieldset>
+      <br> <label for="altura">Altura en centimetros</label>
+       <br><input type="number" id="altura" name="altura" min="100" max="400">
+        <br> <label for="nacimiento">Fecha Nacimiento:</label>
+        <br><input type="date" id="nacimiento" name="nacimiento">
+    </fieldset>
 <fieldset class="nacionalidat"><legend>Nacionalidad</legend>
     <input type="radio" name="Nacionalidad" id="Española" value="es" checked="checked">
     <label for="Española">Española</label>
@@ -25,7 +30,7 @@
         <label for="ue">Comunitario(UE)</label>
         <br> <input type="radio" name="Nacionalidad" id="no" value="no" checked="checked">
         <label for="no">No comunitario</label>
-
+       
 </fieldset>
 <fieldset class="estudios">
 <legend>Estudios</legend>
