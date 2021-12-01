@@ -1,0 +1,20 @@
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+  text-align: justify;  
+  font-weight: normal;
+}
+.apariencia,.meliodas,.personalidat{
+  color: rgb(247, 244, 95);
+  font-weight: 900;
+}
+.aparienciad,.Diane,.personalidadd{
+  color: rgb(253, 135, 38);
+  font-weight: 900;
+}
+.aparienciah,.hawk,.personalidadh{
+  color: rgb(240, 192, 204);
+  font-weight: 900;}
+  .aparienciae,.elizabeth,.personalidade{
+    color: rgb(99, 33, 116);
+    font-weight: 900;}
