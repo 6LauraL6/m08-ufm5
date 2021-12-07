@@ -164,7 +164,7 @@ table,th,td{
               position: absolute;
               display: block;
             }
-            #span1e{
+            #span1{
               top: 0;
               left: -100%;
               width: 100%;
@@ -172,12 +172,12 @@ table,th,td{
               background: linear-gradient(90deg,transparent,rgb(99, 33, 116);
         
             }
-            .btn-neon:hover3 #span1e{
+            .btn-neon:hover3 #span1{
               left: 100%;
               transition: 1s;
             }
         
-            #span3e{
+            #span3{
               bottom: 0;
               right: -100%;
               width: 100%;
@@ -185,11 +185,11 @@ table,th,td{
               background: linear-gradient(270deg,transparent,rgb(99, 33, 116);
         
             }
-            .btn-neon:hover3 #span3e{
+            .btn-neon:hover3 #span3{
               right: 100%;
               transition-delay: 0.5s;
             }
-            #span2e{
+            #span2{
               top: -100;
               right: 0;
               width: 2px;
@@ -197,12 +197,12 @@ table,th,td{
               background: linear-gradient(180deg,transparent,rgb(99, 33, 116);
         
             }
-            .btn-neon:hover3 #span2e{
+            .btn-neon:hover3 #span2{
               top: 100%;
               transition-delay: 0.25s;
             
             }
-            #span4e{
+            #span4{
               bottom: -100;
               left: 0;
               width: 2px;
@@ -210,11 +210,11 @@ table,th,td{
               background: linear-gradient(360deg,transparent,rgb(99, 33, 116);
         
             }
-            .btn-neon:hover3 #span4e{
+            .btn-neon:hover3 #span4{
               bottom: 100%;
               transition-delay: 0.75s;
 
-              o 
+            
               .btn-neon:hover4{
                 background:rgb(255, 188, 205) ; 
                 box-shadow: 0 0 10px rgb(255, 188, 205),0 0 40px
