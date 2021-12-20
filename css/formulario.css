@@ -1,15 +1,15 @@
 .idiomas{
-background-color: rgba(150, 215, 253, 0.733);
-}
-.datos{
-background-color: rgb(252, 179, 137);
-}
-.nacionalidat{
-background-color: rgb(161, 255, 148);
-}
-.estudios{
-background-color: rgb(255, 190, 244);
-}
-.final{
-    background-color: darkgray;
-}
+    background-color: rgba(150, 215, 253, 0.733);
+    }
+    .datos{
+    background-color: rgb(252, 179, 137);
+    }
+    .nacionalidat{
+    background-color: rgb(161, 255, 148);
+    }
+    .estudios{
+    background-color: rgb(255, 190, 244);
+    }
+    .final{
+        background-color: darkgray;
+    }
