@@ -1,35 +1,73 @@
 .inicio {
   width: 600px;
   height: 600px;
+  margin: 5pt;
 }
 .alargado1 {
 background-color: rgb(250, 152, 237);
-width: 50px;
-height:10px;
+width: 62%;
+height:60px;
+border: 1px solid;
+float: left;
+margin: 5px;
 }
 .alargado2 {
-background-color:rgb(255, 215, 250);
-width: 50;
-height:10px
-}
-.pequeño1 {
+    background-color: rgb(250, 215,250);
+    width: 62%;
+    height:60px;
+    border: 1px solid;
+    float: left;
+    margin: 5px;
+    }
+
+
+.pequeno1 {
     background-color: rgb(250, 152, 237); 
-    width: 50px;
-    height:10px
+    width: 30%;
+    height:55px;
+    border: 1px solid;
+float: right;
+margin: 5px;
 }
-.pequeño2 {
+.pequeno1r {
+    background-color: rgb(250, 152, 237); 
+    width: 30%;
+    height:60px;
+    border: 1px solid;
+float: right;
+margin: 5px;
+}
+
+
+.pequeno2 {
     background-color:rgb(255, 215, 250);
-    width: 50px;
-    height:10px
-    
+    width: 30%;
+    height:60px;
+    border: 1px solid;
+    float: right;
+    margin: 5px;
 }
 .grande1 {
     background-color: rgb(225, 171, 236);
-    width: 50px;
-    height:30px
+    width: 30%;
+    height:120px;
+    border: 1px solid;
+float:left;
+margin: 5px;
 }
 .grande2 {
     background-color:rgb(250, 152, 237);
-width: 50px;
-    height: 40px;
+     width: 30%;
+    height: 120px;
+    border: 1px solid;
+float: left;
+margin: 5px;
+}
+.grande2r {
+    background-color:rgb(250, 152, 237);
+     width: 30%;
+    height: 120px;
+    border: 1px solid;
+float: right;
+margin: 5px;
 }
