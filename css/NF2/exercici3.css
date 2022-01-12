@@ -21,8 +21,8 @@ margin-top: 0px;
 }
 .a3 {
   background-color: rgb(152, 250, 221);
-  width: 210px;
-  height: 186px;
+  width: 388px;
+  height: 230px;
   position: absolute;
 margin-left: 210px ;
 
@@ -48,44 +48,46 @@ margin-top:160px;
 .a6 {
   background-color: rgb(211, 152, 250);
   width: 200px;
-  height: 140px;
+  height: 145px;
 margin-bottom: 6px;
- margin-top: 250px;
-po
+ margin-top: 244px;
+ 
+position: absolute;
 }
 .a7 {
   background-color: rgb(250, 215, 245);
   width: 200px;
   height: 70px;
-margin-bottom: 6px;
-  position: absolute;
- margin-left: 80px;
+margin-bottom: 8px;
+  position: absolut;
+  margin-top: 190pt;
+  margin-left:209px;
+
 }
 
- margin-top: 50px;
-  
-}
 .a8 {
     background-color:rgb(250, 152, 237);
-
     width: 200px;
-    height: 70px;
-    
-  margin-bottom: px;
-  }
+    height: 64px;
+  margin-bottom: 6px;
+margin-left:210px;
+position: absolute;
+}
   .a9 {
     background-color:rgb(250, 215, 245);
-
-    width: 200px;
-    height: 210px;
-    
+    width: 180px;
+    height: 228px;
+    position: absolute;
   margin-bottom: 6px;
-  }
+  margin-left: 416px;
+margin-top: -78px;
+}
 .a10 {
     background-color: rgb(255, 215, 245);
-    width: 400px;
+    width: 409px;
     height: 70px;
-   
+   position: absolute;
    margin-bottom: 6px;
+  margin-top: 80px;
   }
 
