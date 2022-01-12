@@ -4,25 +4,33 @@
   }
   
   .a1 {
- 
+ background-image: url(https://images.unsplash.com/photo-1641924875397-5324016b96bb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80);
+ background-repeat:no-repeat;
+ background-size:auto;
+ height: 100px;  
+width: 600px;
   }
   .a2 {
     background-color: rgb(250, 215, 245);
     width: 200px;
-    height: 70px;
+    height: 100px;
   margin-bottom: 6px;
   position: absolute;
   margin-top: 80px;
   }
-  }
-  .a3 {
   
-  }
+  .a3 {
+    background-image: url(https://images.unsplash.com/photo-1593642532400-2682810df593?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80);
+    background-repeat:no-repeat;
+    background-size:auto;
+    margin-left:70px;
+margin-top: 50px;
+}
   
   .a4 {
     background-color: rgb(250, 215, 245);
     width: 200px;
-    height: 70px;
+    height: 20px;
   margin-bottom: 6px;
   position: absolute;
   margin-top: 80px;
