@@ -1,0 +1,51 @@
+#primerdiv {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: 20% 20% 20% 20% 20%;
+  }
+  
+  .goku1 {
+    grid-column-start: 3;
+
+  }
+  #div2 {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: 20% 20% 20% 20% 20%;
+  }
+  
+  #termina {
+    grid-column-start: 3;
+   grid-column-end:4
+  }
+  
+  #div3 {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: 20% 20% 20% 20% 20%;
+  }
+  
+  .pa3{
+    grid-column-start: 2;
+    grid-column-end: span 2;.
+  }
+    #div5{
+        display: grid;
+        grid-template-columns: 20% 20% 20% 20% 20%;
+        grid-template-rows: 20% 20% 20% 20% 20%;
+      }
+      
+      # div5{
+        display: grid;
+        grid-template-columns: 20% 20% 20% 20% 20%;
+        grid-template-rows: 20% 20% 20% 20% 20%;
+      }
+      
+      #termina3{
+          grid-row-start:3;
+      grid-column-start:2 ;
+        }
+    #view1{
+        grid-row-start:3 ;
+    grid-column-start:2 ;
+    }
