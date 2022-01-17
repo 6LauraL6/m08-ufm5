@@ -8,55 +8,70 @@
  background-repeat:no-repeat;
  background-size:auto;
  height: 100px;  
-width: 600px;
+width: 617px;
   }
   .a2 {
+    background-color: rgb(250, 215, 245);
+    width: 200px;
+    height: 120px;
+  margin-bottom: 6px;
+  position: absolute;
+  margin-top: 10px;
+  }
+  
+  .a3 {
+    background-image: url(https://static1.diariosur.es/www/multimedia/201909/30/media/cortadas/imagensensible-kYzD-U90285421336FWD-624x385@Diario%20Sur.jpg);
+    background-repeat:no-repeat;
+    background-size:auto;
+    
+margin-top: 125px;
+height: 120px;  
+width: 200px;
+}
+  
+  .a4 {
+    background-color:rgb(250, 215, 245) ;
+    background-repeat:no-repeat;
+    background-size:auto;
+   
+margin-top: 20px;
+height: 120px;  
+width: 200px;
+  }
+  
+  .a5{
+    background-color: rgb(241, 106, 221);
+    width: 200px;
+    height: 100px;
+  margin-bottom: 6px;
+  position: absolute;
+  margin-top: 10px;
+  }
+  .a6 {
+    background-color: rgb(250, 215, 245);
+    width: 200px;
+    height: 100px;
+  margin-bottom: 6px;
+  
+  margin-top: 10px;
+  margin-left:210px; 
+}
+  .a7 {
     background-color: rgb(250, 215, 245);
     width: 200px;
     height: 100px;
   margin-bottom: 6px;
   position: absolute;
-  margin-top: 80px;
-  }
-  
-  .a3 {
-    background-image: url(https://images.unsplash.com/photo-1593642532400-2682810df593?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80);
-    background-repeat:no-repeat;
-    background-size:auto;
-    margin-left:70px;
-margin-top: 50px;
-}
-  
-  .a4 {
-    background-color: rgb(250, 215, 245);
-    width: 200px;
-    height: 20px;
-  margin-bottom: 6px;
-  position: absolute;
-  margin-top: 80px;
-  }
-  
-  .a5{
-   
-  .a6 {
- 
-  }
-  .a7 {
-    background-color: rgb(250, 215, 245);
-    width: 200px;
-    height: 70px;
-  margin-bottom: 8px;
-    position: absolut;
-    margin-top: 190pt;
-    margin-left:209px;
-  
+  margin-top: -106px;
+ margin-left: 420px;
   }
   
   .a8 {
-      background-color:rgb(250, 152, 237);
-      width: 200px;
-      height: 64px;
+      background-image: url(https://i.pinimg.com/originals/9a/d6/b7/9ad6b711b3deffa630889706099647ba.jpg);
+      width: 410px;
+      height: 380px;
     margin-bottom: 6px;
   margin-left:210px;
   position: absolute;
-  }
+margin-top: -490px;  
+}
