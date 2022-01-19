@@ -1,0 +1,74 @@
+*{
+    background-color:#fef2cd ;
+}
+#marco{
+width: 820px;
+
+
+}
+.tiempo{
+    margin-top:-4.1px;
+}
+.sirius{
+  margin-left: 48px;  
+margin-top:-4.1px;
+border: black,;
+position: absolute;
+}
+.sighted{
+    margin-left: 200px;  
+    margin-top:128px; 
+position:absolute;
+
+}
+.gif{
+    margin-left: 200px;  
+    margin-top:268px; 
+width: 441px;
+height: 450px;
+position: absolute;
+
+}
+.izquierda1{
+margin-top:127px ;
+margin-left: 50px;
+position:absolute; ;
+}
+.izquierda2{
+    margin-top:286px ;
+    margin-left:50px;
+    position:absolute;
+    }
+.derecha1{
+    margin-left:660px ;
+margin-top: 126px;
+position:ab;
+background-color:#fef2cd ;
+position: absolute;
+}
+
+.derecha2{
+    margin-left:660px ;
+margin-top: 579px;
+position:ab;
+background-color:#fef2cd ;
+position: absolute;
+}
+.izquierda3{
+    margin-top:551px ;
+    margin-left:50px;
+    position:absolute;
+    }
+    .foto{
+        margin-left: 200px;  
+        margin-top:710px; 
+    
+    position: absolute;
+   ;
+    }
+    .pie{
+        margin-left: 50px;  
+        margin-top:870px; 
+    
+    position: absolute;
+   ;
